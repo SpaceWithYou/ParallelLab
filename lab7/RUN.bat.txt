@@ -1,0 +1,2 @@
+mpiexec -n 16 lab7.exe 1048576 67108864
+PAUSE
